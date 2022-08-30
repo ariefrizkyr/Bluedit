@@ -1,5 +1,5 @@
 # Bluedit
-### Developed by [Arief R Ramadhan](https://ariefrizky.com)
+### Developed by [Arief R Ramadhan](https://ariefrizkyr.com)
 
 Bluedit is Reddit clone learned from Mackenzie YT video.
 
